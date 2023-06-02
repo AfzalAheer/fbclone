@@ -1,5 +1,5 @@
-t#!/usr/bin/python
-#Mrytmafia
+#!/usr/bin/python
+#https://www.youtube.com/@Mrytmafia
 
 import os,zlib
 
